@@ -1,0 +1,24 @@
+.lavender-container {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to bottom right, #d8b4fe, #f5e1ff);
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+  color: #4b0082;
+}
+
+.start-btn {
+  background-color: #b57edc;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.start-btn:hover {
+  background-color: #a36cd9;
+  transform: scale(1.05);
+}
